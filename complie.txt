@@ -1,0 +1,2 @@
+python3 PA3.py test.sql
+assuming the test sript is called test.sql
